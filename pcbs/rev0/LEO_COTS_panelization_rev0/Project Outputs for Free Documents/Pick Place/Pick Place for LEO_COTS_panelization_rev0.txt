@@ -1,0 +1,71 @@
+Altium Designer Pick and Place Locations
+C:\Users\yms\source\repos\um-leo-cots\pcbs\rev0\LEO_COTS_panelization_rev0\Project Outputs for Free Documents\Pick Place\Pick Place for LEO_COTS_panelization_rev0.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       18/10/21
+Time:       09:50
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment          Layer       Footprint                         Center-X(mil) Center-Y(mil) Rotation Description                              
+P1         1909763-1        TopLayer    1909763-1                         1066.020      1063.441      90       "CONN UMCC JACK STR 50OHM SMD"           
+ANT1       ANT              TopLayer    RESLOOP_OD10_fw15_fl180_sw12_sl15 1200.787      1063.269      180      ""                                       
+P1         1909763-1        TopLayer    1909763-1                         2489.043      973.441       270      "CONN UMCC JACK STR 50OHM SMD"           
+R2         "Res Semi"       TopLayer    CAPC0603X04N                      2305.764      1058.142      270      "Semiconductor Resistor"                 
+R1         "Res Semi"       TopLayer    CAPC0603X04N                      2016.764      1057.142      180      "Semiconductor Resistor"                 
+J1         "10-Pin JTAG"    TopLayer    FTSH-105-01-F-DV-007-K            1822.063      1123.441      0        ""                                       
+C10        CAP_0201         TopLayer    CAPC0603X04N                      2149.063      1212.441      270      "CAP CER 0201"                           
+C9         CAP_0201         TopLayer    CAPC0603X04N                      2250.764      1178.142      270      "CAP CER 0201"                           
+Y2         ECS-.327-7-12-TR TopLayer    XTAL_ECS-.327-7-12-TR             2292.764      1137.142      90       "32.768 kHz SMD Crystal"                 
+Y1         830108160801     TopLayer    LFXTAL081608                      2173.063      924.441       180      "24 MHz crystal"                         
+U1         CC1350F128RSMR   TopLayer    QFN40P400X400X100-33N             2154.764      1067.142      180      "Ultra-Low-Power Dual-Band Wireless MCU" 
+C8         CAP_0201         TopLayer    CAPC0603X04N                      2275.764      1058.142      90       "CAP CER 0201"                           
+C7         CAP_0201         TopLayer    CAPC0603X04N                      2295.764      1016.142      180      "CAP CER 0201"                           
+C6         CAP              TopLayer    1608[0603]                        2320.063      973.441       360      "CAP CER 0603"                           
+C5         CAP_0201         TopLayer    CAPC0603X04N                      2234.764      937.142       90       "CAP CER 0201"                           
+C4         CAP_0603         BottomLayer CAPC1608X05N                      2122.764      927.142       0        "CAP CER 0603"                           
+C3         CAP_0201         TopLayer    CAPC0603X04N                      2107.764      928.142       90       "CAP CER 0201"                           
+C2         CAP_0201         TopLayer    CAPC0603X04N                      2016.764      1091.142      0        "CAP CER 0201"                           
+C1         CAP_0201         TopLayer    CAPC0603X04N                      2180.063      1212.441      270      "CAP CER 0201"                           
+BT1        BATT             BottomLayer 1318164-1                         2341.520      1131.362      90       ""                                       
+P1         1909763-1        TopLayer    1909763-1                         2757.043      651.000       270      "CONN UMCC JACK STR 50OHM SMD"           
+U2         RMK-3-332+       TopLayer    RMK-3-331+                        2485.053      549.701       90       "3x Frequency Multiplier"                
+R2         "Res Semi"       TopLayer    CAPC0603X04N                      2305.764      585.701       270      "Semiconductor Resistor"                 
+R1         "Res Semi"       TopLayer    CAPC0603X04N                      2016.764      584.701       180      "Semiconductor Resistor"                 
+J1         "10-Pin JTAG"    TopLayer    FTSH-105-01-F-DV-007-K            1822.063      651.000       0        ""                                       
+C10        CAP_0201         TopLayer    CAPC0603X04N                      2149.063      740.000       270      "CAP CER 0201"                           
+C9         CAP_0201         TopLayer    CAPC0603X04N                      2250.764      705.701       270      "CAP CER 0201"                           
+Y2         ECS-.327-7-12-TR TopLayer    XTAL_ECS-.327-7-12-TR             2292.764      664.701       90       "32.768 kHz SMD Crystal"                 
+Y1         830108160801     TopLayer    LFXTAL081608                      2173.063      452.000       180      "24 MHz crystal"                         
+U1         CC1350F128RSMR   TopLayer    QFN40P400X400X100-33N             2154.764      594.701       180      "Ultra-Low-Power Dual-Band Wireless MCU" 
+C8         CAP_0201         TopLayer    CAPC0603X04N                      2275.764      585.701       90       "CAP CER 0201"                           
+C7         CAP_0201         TopLayer    CAPC0603X04N                      2295.764      543.701       180      "CAP CER 0201"                           
+C6         CAP              TopLayer    1608[0603]                        2283.063      475.000       270      "CAP CER 0603"                           
+C5         CAP_0201         TopLayer    CAPC0603X04N                      2234.764      464.701       90       "CAP CER 0201"                           
+C4         CAP_0603         BottomLayer CAPC1608X05N                      2122.764      454.701       0        "CAP CER 0603"                           
+C3         CAP_0201         TopLayer    CAPC0603X04N                      2107.764      455.701       90       "CAP CER 0201"                           
+C2         CAP_0201         TopLayer    CAPC0603X04N                      2016.764      618.701       0        "CAP CER 0201"                           
+C1         CAP_0201         TopLayer    CAPC0603X04N                      2180.063      740.000       270      "CAP CER 0201"                           
+BT1        BATT             BottomLayer 1318164-1                         2341.520      658.921       90       ""                                       
+U2         RMK-3-332+       TopLayer    RMK-3-331+                        988.990       549.701       90       "3x Frequency Multiplier"                
+ANT1       ANT              TopLayer    RESLOOP_OD10_fw15_fl180_sw12_sl15 1200.787      590.828       180      ""                                       
+R2         "Res Semi"       TopLayer    CAPC0603X04N                      809.701       585.701       270      "Semiconductor Resistor"                 
+R1         "Res Semi"       TopLayer    CAPC0603X04N                      520.701       584.701       180      "Semiconductor Resistor"                 
+J1         "10-Pin JTAG"    TopLayer    FTSH-105-01-F-DV-007-K            326.000       651.000       0        ""                                       
+C10        CAP_0201         TopLayer    CAPC0603X04N                      653.000       740.000       270      "CAP CER 0201"                           
+C9         CAP_0201         TopLayer    CAPC0603X04N                      754.701       705.701       270      "CAP CER 0201"                           
+Y2         ECS-.327-7-12-TR TopLayer    XTAL_ECS-.327-7-12-TR             796.701       664.701       90       "32.768 kHz SMD Crystal"                 
+Y1         830108160801     TopLayer    LFXTAL081608                      677.000       452.000       180      "24 MHz crystal"                         
+U1         CC1350F128RSMR   TopLayer    QFN40P400X400X100-33N             658.701       594.701       180      "Ultra-Low-Power Dual-Band Wireless MCU" 
+C8         CAP_0201         TopLayer    CAPC0603X04N                      779.701       585.701       90       "CAP CER 0201"                           
+C7         CAP_0201         TopLayer    CAPC0603X04N                      799.701       543.701       180      "CAP CER 0201"                           
+C6         CAP              TopLayer    1608[0603]                        787.000       475.000       270      "CAP CER 0603"                           
+C5         CAP_0201         TopLayer    CAPC0603X04N                      738.701       464.701       90       "CAP CER 0201"                           
+C4         CAP_0603         BottomLayer CAPC1608X05N                      626.701       454.701       0        "CAP CER 0603"                           
+C3         CAP_0201         TopLayer    CAPC0603X04N                      611.701       455.701       90       "CAP CER 0201"                           
+C2         CAP_0201         TopLayer    CAPC0603X04N                      520.701       618.701       0        "CAP CER 0201"                           
+C1         CAP_0201         TopLayer    CAPC0603X04N                      684.000       740.000       270      "CAP CER 0201"                           
+BT1        BATT             BottomLayer 1318164-1                         845.457       658.921       90       ""                                       
