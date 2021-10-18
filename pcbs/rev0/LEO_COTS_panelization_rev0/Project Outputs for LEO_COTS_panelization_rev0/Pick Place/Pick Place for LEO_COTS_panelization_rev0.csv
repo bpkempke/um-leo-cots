@@ -5,14 +5,13 @@ C:\Users\yms\source\repos\um-leo-cots\pcbs\rev0\LEO_COTS_panelization_rev0\Proje
 File Design Information:
 
 Date:       18/10/21
-Time:       10:29
+Time:       10:45
 Revision:   0f8538f5330e27edb327267a074ec735ed6bacaf
 Variant:    No variations
 Units used: mil
 
 "Designator","Description","Footprint","Comment","Layer","Center-X(mil)","Center-Y(mil)","Rotation","Supplier 1","Supplier Part Number 1"
 "P1","CONN UMCC JACK STR 50OHM SMD","1909763-1","1909763-1","TopLayer","1066.020","1063.441","90","Digi-Key","A118077CT-ND"
-"ANT1","PCB antenna","RESLOOP_OD10_fw15_fl180_sw12_sl15","ANT","TopLayer","1200.787","1063.269","180","",""
 "P1","CONN UMCC JACK STR 50OHM SMD","1909763-1","1909763-1","TopLayer","2489.043","973.441","270","Digi-Key","A118077CT-ND"
 "R2","RES 50 OHM 0201","CAPC0603X04N","Res Semi","TopLayer","2305.764","1058.142","270","",""
 "R1","RES 1K OHM 0201","CAPC0603X04N","Res Semi","TopLayer","2016.764","1057.142","180","",""
@@ -51,7 +50,6 @@ Units used: mil
 "C1","CAP CER 100nF 0201","CAPC0603X04N","CAP_0201","TopLayer","2180.063","740.000","270","",""
 "BT1","Battery Holder","1318164-1","BATT","BottomLayer","2341.520","658.921","90","Digi-Key","A108890CT-ND"
 "U2","3x Frequency Multiplier","RMK-3-331+","RMK-3-332+","TopLayer","988.990","549.701","90","",""
-"ANT1","PCB antenna","RESLOOP_OD10_fw15_fl180_sw12_sl15","ANT","TopLayer","1200.787","590.828","180","",""
 "R2","RES 50 OHM 0201","CAPC0603X04N","Res Semi","TopLayer","809.701","585.701","270","",""
 "R1","RES 1K OHM 0201","CAPC0603X04N","Res Semi","TopLayer","520.701","584.701","180","",""
 "J1","10-pin JTAG","FTSH-105-01-F-DV-007-K","10-Pin JTAG","TopLayer","326.000","651.000","0","Digi-Key","FTSH-105-01-L-DV-007-K-P-ND"
