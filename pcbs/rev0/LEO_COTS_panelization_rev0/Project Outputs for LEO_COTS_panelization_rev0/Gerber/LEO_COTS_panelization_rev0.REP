@@ -2,6 +2,58 @@
 FileName = LEO_COTS_panelization_rev0.GBR
 AutoAperture = True
 *************************************************************
+Generating : Bottom Layer
+      File : LEO_COTS_panelization_rev0.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D13
+    D26
+    D29
+    D30
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : LEO_COTS_panelization_rev0.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+*************************************************************
+
+*************************************************************
 Generating : Top Overlay
       File : LEO_COTS_panelization_rev0.GTO
 
@@ -125,57 +177,5 @@ Generating : Mechanical 4
 
 Used DCodes :
     D27
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : LEO_COTS_panelization_rev0.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : LEO_COTS_panelization_rev0.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D13
-    D26
-    D29
-    D30
-    D31
-    D32
 *************************************************************
 
